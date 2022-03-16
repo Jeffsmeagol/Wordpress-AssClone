@@ -1,0 +1,77 @@
+@media (max-width: 860px) {
+  .top-content h1 {
+    font-size: 6.5vw;
+  }
+  .top-content p {
+    font-size: 3.5vw;
+  }
+  nav p {
+    display: none;
+  }
+  .bars, .wp {
+    display: block;
+  }
+
+  .free {
+    display: block;
+  }
+  .free-cont__right {
+    display: none;
+  }
+  .free-cont__left>p {
+    width: 100%;
+  }
+  .offer__item {
+    min-width: calc(33.33% - 1rem);
+  }
+  .business, .ecommerce {
+    width: 49%;
+  }
+  .first-icon-cont, .second-icon-cont {
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+  }
+  .first-icon, .second-icon {
+    border: none;
+    padding: 0;
+    width: 20%;
+  }
+  .first-text, .second-text {
+    width: 90%;
+    text-align: center;
+  }
+  .first-test__image {
+    margin: auto;
+  }
+  .first-icon-cont p,
+  .second-icon-cont p {
+    padding-left: 0;
+    padding-top: 5%;
+  }
+
+  .last-cont {
+    flex-wrap: wrap;
+  }
+  .last-item {
+    width: 50%;
+  }
+  .products, .features {
+    padding-bottom: 5%;
+  }
+  .left-buttons-cont {
+    flex-direction: column;
+  }
+  .right-buttons-cont {
+    flex-direction: column-reverse;
+  }
+  .select-button {
+    width: 100%;
+  }
+  .google {
+    margin-bottom: 1rem;
+  }
+  footer p {
+    width: 50%;
+  }
+}

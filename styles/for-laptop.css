@@ -1,0 +1,50 @@
+@media (max-width: 1080px) {
+  .top-content h1 {
+    width: 90%;
+  }
+  .top-content p {
+    width: 60%;
+  }
+  .firstrow-pics {
+    padding: 10% 2%;
+  }
+
+  .text-above {
+    margin-left: 5%;
+  }
+  .text-below-pics {
+    width: 40%;
+  }
+
+  .wp-video video {
+    width: 93%;
+  }
+  .below-video {
+    width: 90%;
+  }
+  .flex-cont {
+    width: 90%;
+  }
+  .blue-section-pic45 {
+    width: 47.5%;
+  }
+  .lighter-section-pic5 {
+    width: 90%;
+  }
+
+  .free-cont  {
+    width: 90%;
+  }
+  .first-text, .second-text {
+    width: 70%;
+  }
+  .first-icon, .second-icon {
+    width: 15%;
+  }
+  .last-section-cont {
+    padding: 8% 5% 0 5%;
+  }
+  footer {
+    padding: 2% 5%;
+  }
+}

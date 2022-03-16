@@ -1,0 +1,121 @@
+@media (max-width: 480px) {
+  .top-content > h1 {
+    font-size: 7vw;
+  }
+  .top-content p {
+    display: none;
+  }
+  .below-firstrow-pics {
+    padding: 0 2%;
+  }
+  .build-site {
+    margin: 0;
+    font-size: 9vw;
+  }
+  .logo {
+    font-size: 5vw;
+  }
+  .word-break {
+    display: block;
+  }
+  .text-above h2 {
+    font-size: 18vw;
+  }
+  .text-above p {
+    font-size: 5vw;
+  }
+  .nextrow-pic1, .nextrow-pic5 {
+    display: none;
+  }
+  .nextrow-pics > div {
+    width: 30%;
+  }
+  .text-below-pics {
+    width: 90%;
+    padding-top: 15%;
+    padding-bottom: 15%;
+  }
+  .text-stylesfor-h3 {
+    font-size: 8vw;
+  }
+  .text-stylesfor-p {
+    font-size: 4vw;
+  }
+  .text-stylesfor-h4 {
+    font-size: 5vw;
+  }
+  .below-video {
+    flex-direction: column;
+    padding: 15% 0;
+  }
+  .below-video .first, .below-video .second {
+    width: 100%;
+  }
+  .below-video .for-mobile {
+    display: inline;
+  }
+  .for-mobile--h3 {
+    font-size: 4vw;
+  }
+  .flex-cont {
+    flex-direction: column;
+  }
+  .flex-item {
+    width: 100%;
+  }
+  .padding-for-mobile {
+    padding-top: 10%;
+  }
+  .blue-section-pic1-cont .texts-beside {
+    padding: 5% 0;
+  }
+  .blue-section-pic45 {
+    flex-direction: row;
+  }
+  .blue-section-pic4, .blue-section-pic5 {
+    width: 46%;
+  }
+  .changing-image, .no_changing-image {
+    height: 90vw;
+  }
+  .lighter-section-pic5 {
+    padding: 10% 0;
+  }
+  .lighter-section-pic5 img {
+    border: 0.1rem none #ffffff;
+    border-radius: 1rem;
+  }
+  .offer-cont {
+    flex-direction: column;
+    width: 80%;
+  }
+  .offer__item {
+    width: 100%;
+  }
+  .last-cont {
+    flex-direction: column;
+  }
+  .resources {
+    padding-bottom: 5%;
+  }
+  .buttons-cont {
+    flex-direction: column-reverse;
+  }
+  .left-buttons-cont {
+    width: 100%;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding-bottom: 5%;
+  }
+  .right-buttons-cont {
+    width: 100%;
+  }
+  .social-icons {
+    text-align: center;
+    padding-top: 5%;
+  }
+  footer {
+    flex-direction: column;
+  }
+}
